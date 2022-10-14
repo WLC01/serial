@@ -70,7 +70,7 @@ int main(int argc, char *argv[])
 
         usleep(200);
     }
-
+    
     // serial_write("hello"); // 向串口发送数据
 
     // serial_close(); // 关闭串口
